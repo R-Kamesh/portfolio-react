@@ -31,7 +31,7 @@ It showcases my projects, skills, and background as a B.Tech undergraduate at **
 ## ⚙️ Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/portfolio-react.git
+git clone https://r-kamesh.github.io/portfolio-react/
 cd portfolio-react
 npm install
 npm run dev
